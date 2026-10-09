@@ -6,7 +6,7 @@ O **TDA Finance App** permite selecionar até quatro ativos, escolher um períod
 
 ## Acesse o app
 
->  **[Abrir TDA Finance App](LINK_DO_STREAMLIT)**
+>  **[Abrir TDA Finance App](https://tda-finance-app.streamlit.app/)**
 
 O aplicativo utiliza dados do Yahoo Finance e executa automaticamente o pipeline de análise para os ativos e períodos selecionados.
 
